@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-javascript",
+  "version": "1.0.0",
+  "description": "Hello MEMBERS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaoShoji/vanilla-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaoShoji/vanilla-javascript/issues"
+  },
+  "homepage": "https://github.com/MaoShoji/vanilla-javascript#readme",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
